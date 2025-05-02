@@ -1,5 +1,4 @@
 # 💫 About Me:
-## Hello Word! I'm Arman Muharrir 👋
 ![Arman Muharrir](img/github-header-image.png)
 
 ## 🌐 Socials:
